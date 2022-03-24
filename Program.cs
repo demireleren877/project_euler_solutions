@@ -29,7 +29,7 @@ while (second < 4000000)
 Console.WriteLine(sum);*/
 
 // Problem 3
-/*Int64 number = 600851475143;
+Int64 number = 600851475143;
 Int64 largest = 1;
 bool checkPrime(Int64 num)
 {
@@ -50,4 +50,4 @@ for (int i = 2; i < Math.Sqrt(number); i++)
         largest = i;
     }
 }
-Console.WriteLine(largest);*/
+Console.WriteLine(largest);
